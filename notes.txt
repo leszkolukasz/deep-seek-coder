@@ -1,0 +1,4 @@
+cykliczny
+CI/CD pipeline
+na jire
+z memlaba
